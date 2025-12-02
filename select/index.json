@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "深夜6時",
+  "base_artist": "レトロリロン",
+  "createdAt": "2025-12-02T08:01:14.929472Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "深夜6時",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_深夜6時_レトロリロン.txt"
+    }
+  ]
+}
